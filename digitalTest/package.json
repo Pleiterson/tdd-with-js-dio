@@ -1,0 +1,15 @@
+{
+  "name": "digitaltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/findCrushListTest.js"
+  },
+  "author": "Pleiterson Amorim",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.0.1",
+    "should": "^13.2.3"
+  }
+}
